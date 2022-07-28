@@ -8,7 +8,7 @@ Setting for Gvim competitive programming in c++
 ## Installation
 
 - Install [Gvim](https://www.vim.org/download.php)
-- Install [Fixedsys]() - Font
+- Install [Fixedsys](https://github.com/kulson/William-Lin-Font) - Font
 - Copy next code in your _vimrc
 
 ```sh
@@ -78,7 +78,7 @@ endfunction
 ## Special thanks
 
 - Base for vimrc:[tmwiliamlin168](https://github.com/tmwilliamlin168)).
-- Font Fixedsys fix by: [kulson](https://github.com/kulson/William-Lin-Font).
+- Font Fixedsys fix by: [kulson](https://github.com/kulson).
 
 ## License
 
