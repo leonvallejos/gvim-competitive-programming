@@ -1,9 +1,6 @@
 # Gvim competitive programming C++
 
-[![npm](https://img.shields.io/npm/v/chico.svg)](https://www.npmjs.com/package/chico)
-[![Known vulnerabilities](https://snyk.io/test/github/mercadolibre/chico/badge.svg)](https://snyk.io/test/github/mercadolibre/chico)
-
-A collection of easy-to-use UI components.
+Setting for Gvim competitive programming in c++ Windows.
 
 > **IMPORTANT NOTICE**: this project is deprecated and unmaintained.
 > Only critical bugs will be fixed.
