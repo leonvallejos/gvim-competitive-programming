@@ -1,13 +1,15 @@
 # Gvim competitive programming C++
 
-Setting for Gvim competitive programming in c++ Windows.
+Setting for Gvim competitive programming in c++
 
-> **IMPORTANT NOTICE**: this project is deprecated and unmaintained.
-> Only critical bugs will be fixed.
+> **IMPORTANT NOTICE**: this vimrc is for windows only
+> I'm currently working on porting it to Unix/MacOS
 
 ## Installation
 
-Install it using npm:
+Install Gvim
+Install Font
+Copy next code in your _vimrc 
 
 ```sh
 source $VIMRUNTIME/vimrc_example.vim
@@ -72,9 +74,6 @@ function MyDiff()
   endif
 endfunction
 ```
-
-*For a specific version, please check the
-[releases](https://github.com/mercadolibre/chico/releases) section.*
 
 ## Development
 
