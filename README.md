@@ -93,4 +93,4 @@ For more information, documentation, or to see live demos, check our
 
 ## License
 
-© 2012-2017 Mercado Libre. Licensed under the [MIT license](LICENSE.txt).
+© Licensed under the [MIT license](LICENSE.txt).
