@@ -7,12 +7,9 @@ Setting for Gvim competitive programming in c++
 
 ## Installation
 
-- Install [Gvim]()
+- Install [Gvim](https://www.vim.org/download.php)
 - Install [Fixedsys]() - Font
-- Copy next code in your _vimrc, path:
-```sh
-    test
-```
+- Copy next code in your _vimrc
 
 ```sh
 source $VIMRUNTIME/vimrc_example.vim
@@ -25,7 +22,7 @@ set gfn=Fixedsys:h10
 set ts=4
 set sw=4
 set si
-cd C:\Users\tmwil\Documents\vimws
+cd C:\Users\leon.vallejos\Documents\vimws
 
 inoremap { {}<Left>
 inoremap {<CR> {<CR>}<Esc>O
@@ -80,7 +77,8 @@ endfunction
 
 ## Special thanks
 
-- Guille Paz ([@pazguille](https://twitter.com/pazguille)).
+- Base for vimrc:[tmwiliamlin168](https://github.com/tmwilliamlin168)).
+- Font Fixedsys fix by: [kulson](https://github.com/kulson/William-Lin-Font).
 
 ## License
 
