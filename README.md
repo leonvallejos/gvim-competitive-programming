@@ -77,7 +77,7 @@ endfunction
 
 ## Special thanks
 
-- Base for vimrc: [tmwiliamlin168](https://github.com/tmwilliamlin168)).
+- Base for vimrc: [tmwiliamlin168](https://github.com/tmwilliamlin168).
 - Font Fixedsys fix by:  [kulson](https://github.com/kulson).
 
 ## License
