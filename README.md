@@ -3,13 +3,13 @@
 Setting for Gvim competitive programming in c++
 
 > **IMPORTANT NOTICE**: this vimrc is for windows only
-> I'm currently working on porting it to Unix/MacOS
+> I'm currently working on porting it to Unix / MacOS
 
 ## Installation
 
-Install Gvim
-Install Font
-Copy next code in your _vimrc 
+- Install Gvim
+- Install Font
+- Copy next code in your _vimrc 
 
 ```sh
 source $VIMRUNTIME/vimrc_example.vim
